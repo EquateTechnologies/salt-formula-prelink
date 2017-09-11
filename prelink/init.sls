@@ -1,0 +1,3 @@
+prelink:
+  pkg:
+    - installed
